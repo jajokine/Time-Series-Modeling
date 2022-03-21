@@ -19,7 +19,7 @@ The goal was to analyze each of the datasets and understand its variations befor
 
 ## Access and Requirements
 
-The file project4.ipynb is the Jupyter Notebook that contains all the code, visualizations and analysis of the project.
+The file [project4.ipynb](https://github.com/jajokine/Time-Series-Modeling/blob/main/project4.ipynb) is the Jupyter Notebook that contains all the code, visualizations and analysis of the project.
 
 The dependencies and requirements can be seen from requirements.txt that can be installed in shell with the command:
 
